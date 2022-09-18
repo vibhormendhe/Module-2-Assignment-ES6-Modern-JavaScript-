@@ -1,0 +1,5 @@
+[{"id":0,"customerName":"Vibhor Mendhe","phoneNumber":"523-698-2541","address":"1249 E Spence Ave","interest":"8","loanTermYears":"5","loanType":"House Loan","description":"Vibhor Mendhe asks for House Loan"},
+{"id":1,"customerName":"Will Sen","phoneNumber":"602-521-1254","address":"125 E Indian RD ","interest":"7","loanTermYears":"6","loanType":"Car Loan","description":"Will Sen asks for Car Loan"},
+{"id":2,"customerName":"San Heusen","phoneNumber":"602-310-3654","address":"2548 W 8th street","interest":"4","loanTermYears":"6","loanType":"Business Loan","description":"San Heusen asks for Business Loan"},
+{"id":3,"customerName":"Brian Atkinson","phoneNumber":"313-658-6982","address":"256 W Parc boulvard","interest":"9","loanTermYears":"9","loanType":"Vehicle Loan","description":"Brian Atkinson asks for Vehicle Loan"},
+{"id":4,"customerName":"Jacob Mac","phoneNumber":"623-221-1259","address":"362 S surfer RD","interest":"6","loanTermYears":"7","loanType":"Service Loan","description":"Jacob Mac asks for Service Loan"}]
